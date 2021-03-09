@@ -1,14 +1,14 @@
 {
-  "name": "@pancakeswap-libs/eslint-config-pancake",
+  "name": "@arcanefinance/eslint-config",
   "version": "1.0.0",
-  "description": "Eslint config for PancakeSwap",
+  "description": "Eslint config for ArcaneFinance",
   "main": "lib/index.js",
   "files": [
     "lib"
   ],
-  "repository": "git@github.com:pancakeswap/eslint-config-pancake.git",
+  "repository": "git@github.com:arcanedefi/eslint-config.git",
   "license": "MIT",
-  "author": "RabbitDoge",
+  "author": "ArcaneFinance",
   "private": false,
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.7.0",
